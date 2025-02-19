@@ -1,0 +1,47 @@
+/* React PDF specific styles */
+.react-pdf__Document {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.react-pdf__Page {
+  margin: 10px 0;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.react-pdf__Page canvas {
+  max-width: 100%;
+  height: auto !important;
+}
+
+.pdf-welcome {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pdf-page {
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pdf-error {
+  color: #e74c3c;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.show-more-btn {
+  background: grey;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin: 20px 0;
+}
+
+.show-more-btn:hover {
+  background: rgb(116, 114, 114);
+}

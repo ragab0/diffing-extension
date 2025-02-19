@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Diffing",
+  "version": "1.0",
+  "description": "The diffing extention - where you can define your pdf parts",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["*://*.drive.google.com/*"],
+  "background": {
+    "service_worker": "services/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scripts/content.js"],
+      "css": ["scripts/content.css"]
+    }
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "/assets/logo.png"
+  }
+}
