@@ -21,13 +21,11 @@
 }
 
 .pdf-page {
-  margin-bottom: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
 }
 
 .pdf-error {
-  color: #e74c3c;
-  padding: 20px;
+  color: red;
   text-align: center;
   font-size: 1.5rem;
 }
@@ -42,6 +40,59 @@
   margin: 20px 0;
 }
 
+.btns-wrappers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+}
+
 .show-more-btn:hover {
   background: rgb(116, 114, 114);
+}
+
+.analyze-btn {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.analyze-btn:hover {
+  background-color: #45a049;
+}
+
+/* Text level styles */
+.text-level-1 {
+  border: 2px solid #ff0000;
+  padding: 2px;
+  margin: 2px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.text-level-2 {
+  border: 2px solid #00ff00;
+  padding: 2px;
+  margin: 2px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.text-level-3 {
+  border: 2px solid #0000ff;
+  padding: 2px;
+  margin: 2px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+/* Make sure text content is visible */
+.react-pdf__Page__textContent {
+  z-index: 1;
 }

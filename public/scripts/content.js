@@ -12,6 +12,6 @@ window.onload = function () {
   if (doc) {
     doc.insertAdjacentElement("afterbegin", btn);
   } else {
-    console.error("Document not found");
+    console.log("Document not found");
   }
 };
