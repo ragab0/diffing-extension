@@ -11,7 +11,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = chrome.runtime.getURL(
   "/assets/pdf.worker.min.js"
 );
 
-const api = "https://1fa2-34-105-111-148.ngrok-free.app";
+const api = "https://ad58-34-105-111-148.ngrok-free.app";
 
 function PdfViewer({ pdfUrl }) {
   const [numPages, setNumPages] = useState(null);
