@@ -1,0 +1,3469 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        54,
+                        399,
+                        81
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                211,
+                                54,
+                                399,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        54,
+                                        399,
+                                        82
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ragab Eid Ragab",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        109,
+                        86,
+                        499,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                86,
+                                500,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        86,
+                                        290,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cairo, Egypt | ragab.dev@gmail.com | ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        290,
+                                        86,
+                                        315,
+                                        98
+                                    ],
+                                    "score": 0.61,
+                                    "content": "(+20)",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 25
+                                },
+                                {
+                                    "bbox": [
+                                        316,
+                                        86,
+                                        500,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": " 1094 545 736 | https://ragab.vercel.app",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                102,
+                                413,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        102,
+                                        413,
+                                        116
+                                    ],
+                                    "score": 1.0,
+                                    "content": "linkedin.com/in/ragab-eid | github.com/ragab0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        119,
+                        95,
+                        132
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                120,
+                                95,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        120,
+                                        95,
+                                        132
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SKILLS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        138,
+                        525,
+                        199
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                140,
+                                407,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        140,
+                                        110,
+                                        154
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Languages:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        140,
+                                        135,
+                                        150
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\mathsf{C}++",
+                                    "type": "inline_equation",
+                                    "height": 10,
+                                    "width": 24
+                                },
+                                {
+                                    "bbox": [
+                                        135,
+                                        140,
+                                        407,
+                                        154
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", HTML, CSS/SCSS, JavaScript/TypeScript, SQL, Python, UML",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                152,
+                                525,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        152,
+                                        525,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Concepts: DSA, OOP, Design Patterns, Operating Systems, Database Design & Modeling, System Analysis &",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                164,
+                                238,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        164,
+                                        238,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Design, Unit Testing, AJAX, RESTful APIs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                174,
+                                516,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        174,
+                                        516,
+                                        190
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technologies & Tools: React.js, Next.js, Redux, JQuery, TailwindCSS, Bootstrap, Framer Motion, Node.js,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                188,
+                                407,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        188,
+                                        407,
+                                        202
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Express.js, Nest.js, MongoDB, MySQL, PostgreSQL, Supabase, Git, Jest, Webpack",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        208,
+                        114,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                209,
+                                114,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        209,
+                                        114,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "PROJECTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        228,
+                        145,
+                        239
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                228,
+                                146,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        228,
+                                        146,
+                                        240
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CV Builder (MERN)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        228,
+                        555,
+                        240
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                228,
+                                555,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        228,
+                                        555,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        240,
+                        479,
+                        253
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                241,
+                                471,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        241,
+                                        471,
+                                        255
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Created an AI-driven platform helping Arabic speakers to create professional, customizable CVs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        252,
+                        542,
+                        361
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                254,
+                                477,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        254,
+                                        477,
+                                        267
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed a PDF generation system using React-PDF with content editing powered by DraftJS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                266,
+                                538,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        266,
+                                        538,
+                                        280
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated OpenAI and Google models for smart CV content suggestions, utilized Amazon S3 buckets for file",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                278,
+                                356,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        278,
+                                        356,
+                                        292
+                                    ],
+                                    "score": 1.0,
+                                    "content": "storage, and implemented Stripe and PayPal as payment gateways",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                291,
+                                541,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        291,
+                                        541,
+                                        303
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Designed a comprehensive authentication system with social media integration (Google, LinkedIn) and email",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                302,
+                                354,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        302,
+                                        354,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verification, implementing security best practices using Passport.js",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                313,
+                                520,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        313,
+                                        520,
+                                        328
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Implemented real-time chat and notification systems using Socket.IO, enabling seamless communication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                326,
+                                231,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        326,
+                                        231,
+                                        339
+                                    ],
+                                    "score": 1.0,
+                                    "content": "between users and career consultants",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                338,
+                                525,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        338,
+                                        525,
+                                        352
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized Next.js, Adobe XD, Redux Toolkit for state management, useForm and Yup for form handling and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                349,
+                                374,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        349,
+                                        374,
+                                        364
+                                    ],
+                                    "score": 1.0,
+                                    "content": "validation, Framer Motion for animations, and TailwindCSS for styling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        365,
+                        116,
+                        375
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                364,
+                                117,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        364,
+                                        117,
+                                        376
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LMS (MERN)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        364,
+                        556,
+                        376
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                364,
+                                556,
+                                377
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        364,
+                                        556,
+                                        377
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        378,
+                        551,
+                        484
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                377,
+                                469,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        377,
+                                        469,
+                                        392
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Architected a RESTful API using the MVC architecture, supported by detailed UML diagrams",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                389,
+                                263,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        389,
+                                        263,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and documented with Swagger and Postman",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                402,
+                                550,
+                                416
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        402,
+                                        550,
+                                        416
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Created a student application featuring shopping cart functionality, course progress tracking, lesson comments,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                414,
+                                513,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        414,
+                                        513,
+                                        428
+                                    ],
+                                    "score": 1.0,
+                                    "content": "real-time messaging with mentors, and a rating and review system to enhance the learning experience",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                426,
+                                486,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        426,
+                                        486,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Built a mentor dashboard with YouTube playlist integration for seamless course content creation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                437,
+                                465,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        437,
+                                        465,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed an introductory admin panel, providing an overview for basic user management",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                448,
+                                533,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        448,
+                                        533,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated react-player for seamless video playback, Markdown for content formatting allowing mentors to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                462,
+                                519,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        462,
+                                        519,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "create customizable profile, and Draft.js for rich-text commenting, enhancing flexibility and interactivity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                474,
+                                432,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        474,
+                                        432,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized Figma, Bootstrap, Skeleton, Framer Motion, RTK, React Hook Form and Joi",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        488,
+                        209,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                489,
+                                208,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        489,
+                                        208,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "E-Commerce (Next.js, Express.js)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 33
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        488,
+                        555,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                487,
+                                556,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        487,
+                                        556,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        501,
+                        504,
+                        537
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                501,
+                                484,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        502,
+                                        386,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated Express.js API with file-based database using JSON/JavaScript",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        387,
+                                        501,
+                                        413,
+                                        513
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\mathtt{E S6+}",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 26
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        502,
+                                        484,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": " for quick access",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                514,
+                                504,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        514,
+                                        504,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Implemented shopping cart, CRUD operations, product listing with filtering and multi-criteria search",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                525,
+                                379,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        525,
+                                        379,
+                                        540
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized pure Redux, TailwindCSS, and React Toastify with localStorage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 36
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        540,
+                        276,
+                        552
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                542,
+                                272,
+                                553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        542,
+                                        272,
+                                        553
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GPT-3 Landing Page, React, Next.js, TailwindCSS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 38
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        540,
+                        555,
+                        552
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                539,
+                                556,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        539,
+                                        556,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 39
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        554,
+                        427,
+                        577
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                554,
+                                414,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        554,
+                                        414,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Transformed Figma design into responsive webpage with AOS scroll animations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                566,
+                                426,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        566,
+                                        426,
+                                        579
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed a fully functional, cross-browser compatible, and user-friendly interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 40.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        580,
+                        321,
+                        604
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                580,
+                                320,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        580,
+                                        320,
+                                        594
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Friend-Simon Landing Page, HTML5, CSS3, Bootstrap-Grid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                594,
+                                267,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        594,
+                                        267,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Resto-Restaurant Landing Page, HTML5, CSS3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        }
+                    ],
+                    "index": 43.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        581,
+                        556,
+                        604
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                579,
+                                556,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        579,
+                                        556,
+                                        594
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                501,
+                                591,
+                                556,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        591,
+                                        556,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        }
+                    ],
+                    "index": 44.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        613,
+                        135,
+                        626
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                614,
+                                135,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        614,
+                                        135,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CERTIFICATES",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        }
+                    ],
+                    "index": 46
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        59,
+                        633,
+                        549,
+                        646
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                633,
+                                547,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        633,
+                                        87,
+                                        646
+                                    ],
+                                    "score": 0.81,
+                                    "content": "\\mathbf{C}\\boldsymbol{+}\\boldsymbol{+}\\mathrm{~}|",
+                                    "type": "inline_equation",
+                                    "height": 13,
+                                    "width": 32
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        633,
+                                        191,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Data Structures using",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        191,
+                                        634,
+                                        219,
+                                        646
+                                    ],
+                                    "score": 0.64,
+                                    "content": "\\hphantom{0}\\mathbf{C}++",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 28
+                                },
+                                {
+                                    "bbox": [
+                                        219,
+                                        633,
+                                        547,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| JavaScript | Software Development - React Web Developer job profile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 47
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        655,
+                        123,
+                        667
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                655,
+                                123,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        655,
+                                        123,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDUCATION",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        }
+                    ],
+                    "index": 48
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        674,
+                        360,
+                        717
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                676,
+                                270,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        676,
+                                        270,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cairo University - BS in Business Administration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                693,
+                                253,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        693,
+                                        253,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "New Horizons, Cairo - React Web Developer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                705,
+                                355,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        705,
+                                        355,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Scholarship awarded by the Digital Egypt Pioneers Initiative (DEPI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        }
+                    ],
+                    "index": 51
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        462,
+                        674,
+                        556,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                462,
+                                674,
+                                556,
+                                689.0
+                            ],
+                            "spans": [],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                462,
+                                689.0,
+                                556,
+                                704.0
+                            ],
+                            "spans": [],
+                            "index": 52
+                        }
+                    ],
+                    "index": 51.0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        464,
+                        675,
+                        555,
+                        686
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                463,
+                                675,
+                                556,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        463,
+                                        675,
+                                        556,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sep 2022 - Sep 2026",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        463,
+                        693,
+                        555,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                464,
+                                693,
+                                555,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        464,
+                                        693,
+                                        555,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Apr 2024 - Dec 2024",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        54,
+                        399,
+                        81
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                211,
+                                54,
+                                399,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        54,
+                                        399,
+                                        82
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ragab Eid Ragab",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        109,
+                        86,
+                        499,
+                        114
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                86,
+                                500,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        86,
+                                        290,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cairo, Egypt | ragab.dev@gmail.com | ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        290,
+                                        86,
+                                        315,
+                                        98
+                                    ],
+                                    "score": 0.61,
+                                    "content": "(+20)",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 25
+                                },
+                                {
+                                    "bbox": [
+                                        316,
+                                        86,
+                                        500,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": " 1094 545 736 | https://ragab.vercel.app",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                198,
+                                102,
+                                413,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        198,
+                                        102,
+                                        413,
+                                        116
+                                    ],
+                                    "score": 1.0,
+                                    "content": "linkedin.com/in/ragab-eid | github.com/ragab0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        111,
+                        86,
+                        500,
+                        116
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        119,
+                        95,
+                        132
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                120,
+                                95,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        120,
+                                        95,
+                                        132
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SKILLS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        138,
+                        525,
+                        199
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                140,
+                                407,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        140,
+                                        110,
+                                        154
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Languages:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        140,
+                                        135,
+                                        150
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\mathsf{C}++",
+                                    "type": "inline_equation",
+                                    "height": 10,
+                                    "width": 24
+                                },
+                                {
+                                    "bbox": [
+                                        135,
+                                        140,
+                                        407,
+                                        154
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", HTML, CSS/SCSS, JavaScript/TypeScript, SQL, Python, UML",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                152,
+                                525,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        152,
+                                        525,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Concepts: DSA, OOP, Design Patterns, Operating Systems, Database Design & Modeling, System Analysis &",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                164,
+                                238,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        164,
+                                        238,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Design, Unit Testing, AJAX, RESTful APIs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                174,
+                                516,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        174,
+                                        516,
+                                        190
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technologies & Tools: React.js, Next.js, Redux, JQuery, TailwindCSS, Bootstrap, Framer Motion, Node.js,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                188,
+                                407,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        188,
+                                        407,
+                                        202
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Express.js, Nest.js, MongoDB, MySQL, PostgreSQL, Supabase, Git, Jest, Webpack",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        54,
+                        140,
+                        525,
+                        202
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        208,
+                        114,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                209,
+                                114,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        209,
+                                        114,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "PROJECTS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        228,
+                        145,
+                        239
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                228,
+                                146,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        228,
+                                        146,
+                                        240
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CV Builder (MERN)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        228,
+                        555,
+                        240
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                228,
+                                555,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        228,
+                                        555,
+                                        242
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        501,
+                        228,
+                        555,
+                        242
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        240,
+                        479,
+                        253
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                241,
+                                471,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        241,
+                                        471,
+                                        255
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Created an AI-driven platform helping Arabic speakers to create professional, customizable CVs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        57,
+                        241,
+                        471,
+                        255
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        55,
+                        252,
+                        542,
+                        361
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                254,
+                                477,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        254,
+                                        477,
+                                        267
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed a PDF generation system using React-PDF with content editing powered by DraftJS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                266,
+                                538,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        266,
+                                        538,
+                                        280
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated OpenAI and Google models for smart CV content suggestions, utilized Amazon S3 buckets for file",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                278,
+                                356,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        278,
+                                        356,
+                                        292
+                                    ],
+                                    "score": 1.0,
+                                    "content": "storage, and implemented Stripe and PayPal as payment gateways",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                291,
+                                541,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        291,
+                                        541,
+                                        303
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Designed a comprehensive authentication system with social media integration (Google, LinkedIn) and email",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                302,
+                                354,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        302,
+                                        354,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verification, implementing security best practices using Passport.js",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                313,
+                                520,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        313,
+                                        520,
+                                        328
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Implemented real-time chat and notification systems using Socket.IO, enabling seamless communication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                326,
+                                231,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        326,
+                                        231,
+                                        339
+                                    ],
+                                    "score": 1.0,
+                                    "content": "between users and career consultants",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                338,
+                                525,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        338,
+                                        525,
+                                        352
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized Next.js, Adobe XD, Redux Toolkit for state management, useForm and Yup for form handling and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                349,
+                                374,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        349,
+                                        374,
+                                        364
+                                    ],
+                                    "score": 1.0,
+                                    "content": "validation, Framer Motion for animations, and TailwindCSS for styling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        55,
+                        254,
+                        541,
+                        364
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        365,
+                        116,
+                        375
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                364,
+                                117,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        364,
+                                        117,
+                                        376
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LMS (MERN)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        364,
+                        556,
+                        376
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                364,
+                                556,
+                                377
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        364,
+                                        556,
+                                        377
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        501,
+                        364,
+                        556,
+                        377
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        378,
+                        551,
+                        484
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                377,
+                                469,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        377,
+                                        469,
+                                        392
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Architected a RESTful API using the MVC architecture, supported by detailed UML diagrams",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                389,
+                                263,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        389,
+                                        263,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and documented with Swagger and Postman",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                402,
+                                550,
+                                416
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        402,
+                                        550,
+                                        416
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Created a student application featuring shopping cart functionality, course progress tracking, lesson comments,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                414,
+                                513,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        414,
+                                        513,
+                                        428
+                                    ],
+                                    "score": 1.0,
+                                    "content": "real-time messaging with mentors, and a rating and review system to enhance the learning experience",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                426,
+                                486,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        426,
+                                        486,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Built a mentor dashboard with YouTube playlist integration for seamless course content creation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                437,
+                                465,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        437,
+                                        465,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed an introductory admin panel, providing an overview for basic user management",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                448,
+                                533,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        448,
+                                        533,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated react-player for seamless video playback, Markdown for content formatting allowing mentors to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                462,
+                                519,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        462,
+                                        519,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "create customizable profile, and Draft.js for rich-text commenting, enhancing flexibility and interactivity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                474,
+                                432,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        474,
+                                        432,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized Figma, Bootstrap, Skeleton, Framer Motion, RTK, React Hook Form and Joi",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 28,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        55,
+                        377,
+                        550,
+                        486
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        488,
+                        209,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                489,
+                                208,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        489,
+                                        208,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "E-Commerce (Next.js, Express.js)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 33,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        488,
+                        555,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                487,
+                                556,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        487,
+                                        556,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        501,
+                        487,
+                        556,
+                        502
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        501,
+                        504,
+                        537
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                501,
+                                484,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        502,
+                                        386,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Integrated Express.js API with file-based database using JSON/JavaScript",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        387,
+                                        501,
+                                        413,
+                                        513
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\mathtt{E S6+}",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 26
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        502,
+                                        484,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": " for quick access",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                514,
+                                504,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        514,
+                                        504,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Implemented shopping cart, CRUD operations, product listing with filtering and multi-criteria search",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                525,
+                                379,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        525,
+                                        379,
+                                        540
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Utilized pure Redux, TailwindCSS, and React Toastify with localStorage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 36,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        55,
+                        501,
+                        504,
+                        540
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        540,
+                        276,
+                        552
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                542,
+                                272,
+                                553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        542,
+                                        272,
+                                        553
+                                    ],
+                                    "score": 1.0,
+                                    "content": "GPT-3 Landing Page, React, Next.js, TailwindCSS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 38,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        56,
+                        542,
+                        272,
+                        553
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        540,
+                        555,
+                        552
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                539,
+                                556,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        539,
+                                        556,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 39,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        501,
+                        539,
+                        556,
+                        554
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        58,
+                        554,
+                        427,
+                        577
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                554,
+                                414,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        554,
+                                        414,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Transformed Figma design into responsive webpage with AOS scroll animations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                566,
+                                426,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        566,
+                                        426,
+                                        579
+                                    ],
+                                    "score": 1.0,
+                                    "content": "• Developed a fully functional, cross-browser compatible, and user-friendly interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 40.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        56,
+                        554,
+                        426,
+                        579
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        580,
+                        321,
+                        604
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                580,
+                                320,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        580,
+                                        320,
+                                        594
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Friend-Simon Landing Page, HTML5, CSS3, Bootstrap-Grid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                594,
+                                267,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        594,
+                                        267,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Resto-Restaurant Landing Page, HTML5, CSS3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        }
+                    ],
+                    "index": 43.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        55,
+                        580,
+                        320,
+                        606
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        501,
+                        581,
+                        556,
+                        604
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                501,
+                                579,
+                                556,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        579,
+                                        556,
+                                        594
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                501,
+                                591,
+                                556,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        591,
+                                        556,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Live | Repo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        }
+                    ],
+                    "index": 44.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        501,
+                        579,
+                        556,
+                        606
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        613,
+                        135,
+                        626
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                614,
+                                135,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        614,
+                                        135,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CERTIFICATES",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        }
+                    ],
+                    "index": 46,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        59,
+                        633,
+                        549,
+                        646
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                633,
+                                547,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        633,
+                                        87,
+                                        646
+                                    ],
+                                    "score": 0.81,
+                                    "content": "\\mathbf{C}\\boldsymbol{+}\\boldsymbol{+}\\mathrm{~}|",
+                                    "type": "inline_equation",
+                                    "height": 13,
+                                    "width": 32
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        633,
+                                        191,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Data Structures using",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        191,
+                                        634,
+                                        219,
+                                        646
+                                    ],
+                                    "score": 0.64,
+                                    "content": "\\hphantom{0}\\mathbf{C}++",
+                                    "type": "inline_equation",
+                                    "height": 12,
+                                    "width": 28
+                                },
+                                {
+                                    "bbox": [
+                                        219,
+                                        633,
+                                        547,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| JavaScript | Software Development - React Web Developer job profile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 47,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        655,
+                        123,
+                        667
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                655,
+                                123,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        655,
+                                        123,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDUCATION",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        }
+                    ],
+                    "index": 48,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        55,
+                        674,
+                        360,
+                        717
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                676,
+                                270,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        676,
+                                        270,
+                                        687
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cairo University - BS in Business Administration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                693,
+                                253,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        693,
+                                        253,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "New Horizons, Cairo - React Web Developer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                705,
+                                355,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        705,
+                                        355,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Scholarship awarded by the Digital Egypt Pioneers Initiative (DEPI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        }
+                    ],
+                    "index": 51,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        55,
+                        676,
+                        355,
+                        717
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        462,
+                        674,
+                        556,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                462,
+                                674,
+                                556,
+                                689.0
+                            ],
+                            "spans": [],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                462,
+                                689.0,
+                                556,
+                                704.0
+                            ],
+                            "spans": [],
+                            "index": 52
+                        }
+                    ],
+                    "index": 51.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        462,
+                        674,
+                        556,
+                        704.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "1.1.0"
+}
